@@ -30,7 +30,7 @@ const LIBPATH_list = String[]
 artifacts_toml = joinpath(@__DIR__, "..", "Artifacts.toml")
 
 # Extract all platforms
-artifacts = Pkg.Artifacts.load_artifacts_toml(artifacts_toml; pkg_uuid=UUID("aadb2912-e79e-5463-a3e5-edbf379975f1"))
+artifacts = Pkg.Artifacts.load_artifacts_toml(artifacts_toml; pkg_uuid=UUID("8fcd9439-76b0-55f4-a525-bad0597c05d8"))
 platforms = [Pkg.Artifacts.unpack_platform(e, "CGAL", artifacts_toml) for e in artifacts["CGAL"]]
 
 # Filter platforms based on what wrappers we've generated on-disk
