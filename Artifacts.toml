@@ -1,252 +1,252 @@
 [[CGAL]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "995b3c84ce9ac5926902be95c1794632464bedcf"
-libc = "musl"
+git-tree-sha1 = "babe9f28239493307a3c6eebb5e676df1a8904db"
+libc = "glibc"
 os = "linux"
 
     [[CGAL.download]]
-    sha256 = "93f5e21caf522d01fa59a562ca4cb420551d4f34c9482ee71489a75c94055743"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "bc99853de8316bc38f31123e6ff3092ab8817aab2bd1f77adf17b959f4fbc502"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.aarch64-linux-gnu-cxx03.tar.gz"
 [[CGAL]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0ef91fd35126b7eb95f7e838272178472b051e51"
+git-tree-sha1 = "a58ee53b3f3c06968b3039b3a4a8a99702943d8f"
+libc = "glibc"
+os = "linux"
+
+    [[CGAL.download]]
+    sha256 = "96db0a386886aec20579d3eb8a396972a6e9af97a11b0c2cbf0596bc6e00bed6"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[CGAL]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3067d04df772bf71d6d5b1afcee695fd168622f2"
 libc = "musl"
 os = "linux"
 
     [[CGAL.download]]
-    sha256 = "f72c2f7a2a898c5544b720515b33047df3ba36fd5685df09c34f2707eddcb5a1"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "8f8d444a7ad5844e866e84e4cc631c81275ead890147460b4559d19bbfbaf9cb"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.aarch64-linux-musl-cxx03.tar.gz"
+[[CGAL]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8df815188c3fddb57cf12a245eeb08dd72875fd4"
+libc = "musl"
+os = "linux"
+
+    [[CGAL.download]]
+    sha256 = "429bf11c7814454128d69c2d3ce3274178b5362e9f5992c600aa0e4fa56feefc"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.aarch64-linux-musl-cxx11.tar.gz"
 [[CGAL]]
 arch = "armv7l"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "37d43a613e943b70e62dd2cefd80ba1547971734"
+git-tree-sha1 = "33f2e596dbac59cac57fb5c7bba8fdfa14dc455b"
+libc = "glibc"
+os = "linux"
+
+    [[CGAL.download]]
+    sha256 = "86e100f330f7f82594cd5043cbf1ceae1e7b7d8638ad76a3a7196358407ee79f"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[CGAL]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d24545de4c4225a300aacae07a45b818e32e1d7c"
+libc = "glibc"
+os = "linux"
+
+    [[CGAL.download]]
+    sha256 = "d644148d5b0964f615c850aededc3685312457b73d846c530d64f53c533bdc9a"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[CGAL]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e2a4fb4557fdc90e308af32164cacf4d15ba9117"
 libc = "musl"
 os = "linux"
 
     [[CGAL.download]]
-    sha256 = "88cf357733b24b20c17e643cad7b6d80216423aeba6bb74b16c0582779e4aa28"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "e0f51fee5e6831d65bfa7249de20554bae7283dc490cb3b57b487a272b46232e"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[CGAL]]
-arch = "x86_64"
+arch = "armv7l"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "48b841cb77e646addabcfc56bc3719d2f58ef2d6"
+git-tree-sha1 = "dd6e8529b55fd239e1b45c355c3393cdcf384ad6"
+libc = "musl"
+os = "linux"
+
+    [[CGAL.download]]
+    sha256 = "b8eb2499f5f347a3aaaa3c7785b23f702256c1bf075849056d0590d72e83a7a1"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[CGAL]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "524dc0bc343148586cb3db6319524c5a08e0c62c"
+libc = "glibc"
+os = "linux"
+
+    [[CGAL.download]]
+    sha256 = "c3faf676fdbab253bffbeaec918c3683a881fd7fb94c252519fc0ace2434841c"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.i686-linux-gnu-cxx03.tar.gz"
+[[CGAL]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e8d72dfb4b450db8bd320898df0dc5fd110c288d"
+libc = "glibc"
+os = "linux"
+
+    [[CGAL.download]]
+    sha256 = "4d86126df3015531bcb0fae77503f7619c3171bb945aa69be1d6160e5165c9d4"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.i686-linux-gnu-cxx11.tar.gz"
+[[CGAL]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "500533ae5a11cd330aac4af422da237198b0b61c"
+libc = "musl"
+os = "linux"
+
+    [[CGAL.download]]
+    sha256 = "e8a3bd49e488bf2fff0a894d0d6d8db146a80db0784f407e64ac5442e9b1afe4"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.i686-linux-musl-cxx03.tar.gz"
+[[CGAL]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b0f87db8b241415c888914128179fbfbcd02363c"
+libc = "musl"
+os = "linux"
+
+    [[CGAL.download]]
+    sha256 = "06cc8ae89ae7dbaf689537e05676c620605979d614b80071f88f4588aa28ff44"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.i686-linux-musl-cxx11.tar.gz"
+[[CGAL]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8513c824576f8b988066a2656dc1f037d7902f61"
 os = "windows"
 
     [[CGAL.download]]
-    sha256 = "e488c4136069e36e25d2b5b2d308b68d51ff71b3b21a9f81b4d54aa4ddca055f"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "4bf18e7abe7b3d7f735604b308ce82aa708c8ff0c5b14dacd86aec0ed59e3172"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.i686-w64-mingw32-cxx03.tar.gz"
 [[CGAL]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "135cb413c12ec0e5f186a90b59d775c3ea8c21f2"
-libc = "musl"
-os = "linux"
-
-    [[CGAL.download]]
-    sha256 = "40af6b13031f35655ff87ce35158909d530ef0c290cd76093564a73f7f34e56d"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.i686-linux-musl-cxx11.tar.gz"
-[[CGAL]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e4fbc91661d99584788a8ca6faf355b605c03ab8"
-libc = "musl"
-os = "linux"
-
-    [[CGAL.download]]
-    sha256 = "c6c75a3e949f5583b0762548b1efcee265c37caa8a5870c8ad2f32cd64498085"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.x86_64-linux-musl-cxx11.tar.gz"
-[[CGAL]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "111d0b0ffb4c7ca866e7ed355de6912b6c21e78d"
-libc = "glibc"
-os = "linux"
-
-    [[CGAL.download]]
-    sha256 = "d86210a6fd3f5e4d31918c662bd456b319401f453dfbfb787d6c7a210a148d94"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.x86_64-linux-gnu-cxx03.tar.gz"
-[[CGAL]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "28aca93268651c1e3836000d79554d0df244ed1f"
-libc = "glibc"
-os = "linux"
-
-    [[CGAL.download]]
-    sha256 = "3092d3c6425aec67559a6b0e8fd06d56bfbf23f59fd128128d9d802690bd97a1"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.i686-linux-gnu-cxx03.tar.gz"
-[[CGAL]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "756a1fcb7d86ded58bffe2032c14e58e6d3635bd"
-os = "macos"
-
-    [[CGAL.download]]
-    sha256 = "a4b51b2f5fbc2cc973b54c948e6a3343b887551351724f87a7ced702561bdd33"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.x86_64-apple-darwin14-cxx11.tar.gz"
-[[CGAL]]
-arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "cb64a5f90d6e4c64c87640fe3b1ec4f508dc1419"
-libc = "glibc"
-os = "linux"
-
-    [[CGAL.download]]
-    sha256 = "589c9385e291502ee36e5b1cfd77a42b92439bfbdeb41eef6f1b4a7f341cbe57"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.i686-linux-gnu-cxx11.tar.gz"
-[[CGAL]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "514830806724ea1207e72fcacdcd087c0c5f7487"
+git-tree-sha1 = "94deba1b359aa789bd461ad78a76c073e9936b27"
 os = "windows"
 
     [[CGAL.download]]
-    sha256 = "fba6511e053a6fcb32c1778f664152d58bef3843cc2bc7ff2b61619292e7f825"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.x86_64-w64-mingw32-cxx03.tar.gz"
-[[CGAL]]
-arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "ccb7226e852529d930159565e13789d4691b0927"
-libc = "glibc"
-os = "linux"
-
-    [[CGAL.download]]
-    sha256 = "36c272a706d1697abcb5c88a318a3875b936740e6ba8a40cfeceaab0e6cfb17b"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.x86_64-linux-gnu-cxx11.tar.gz"
-[[CGAL]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "9c4b565a795cb7c401a888e17886238d1f4815a8"
-libc = "glibc"
-os = "linux"
-
-    [[CGAL.download]]
-    sha256 = "c2ed159f3cd8977e48e483a17c5791fdc70d6873ac5b0b0c01cfe3f25fc803d9"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.powerpc64le-linux-gnu-cxx11.tar.gz"
-[[CGAL]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "59d86cd01e193076a4b1a9f90438585e58fba1a3"
-libc = "glibc"
-os = "linux"
-
-    [[CGAL.download]]
-    sha256 = "1bf15deca42a106fc7146580e13a90f7fce58f6eca0155f201757455dcd3b6b7"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.aarch64-linux-gnu-cxx11.tar.gz"
-[[CGAL]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "b96719595d0fa4ede9977f6191ec99173a33f8d9"
-libc = "musl"
-os = "linux"
-
-    [[CGAL.download]]
-    sha256 = "6407b32945133d9451fb5285652002fbc29ed33dba1c0d23214b5bc273c767fd"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.x86_64-linux-musl-cxx03.tar.gz"
-[[CGAL]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "e8485defc0497944314055315dfb816f3ede2dc0"
-os = "macos"
-
-    [[CGAL.download]]
-    sha256 = "2d17b26636fab245d7244210b90970e58404b90fa94b6de6e16965d8b1c07697"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.x86_64-apple-darwin14-cxx03.tar.gz"
-[[CGAL]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "62d1949ef542116c5384d6c07bcd31b3860343f2"
-os = "freebsd"
-
-    [[CGAL.download]]
-    sha256 = "98c58bdced9d3ee1cbc6971f5c452e6dfce9532d88524410ac07d5784f44b548"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+    sha256 = "72285df67a500d8c67a2d3566bc8aac38d5e43fbbee26695897209e5dd55cbd1"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.i686-w64-mingw32-cxx11.tar.gz"
 [[CGAL]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "51c3581aa636a8cf50945efb60af035648d70651"
+git-tree-sha1 = "5b96bad1289cf96a04b64a71deba624474131441"
 libc = "glibc"
 os = "linux"
 
     [[CGAL.download]]
-    sha256 = "b21803dabc59821ec7b79d45b9d0b8533f9b75120ae0d7f42de1d4de37aa4979"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "208bdcbc82f87303c3c3050844c7d9ba353a8c7718a929884ec5bf671b7cc994"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[CGAL]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "9b5f55b64aded542d392df5bdf50e17a0e491971"
-os = "windows"
-
-    [[CGAL.download]]
-    sha256 = "967ea22f457d067b307c254b028413d73d78f2e7788b84ab47415a014d7035ca"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.i686-w64-mingw32-cxx03.tar.gz"
-[[CGAL]]
-arch = "i686"
+arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2ea32866ce23fe5df4c649e606f936a9f8d7a14b"
-os = "windows"
-
-    [[CGAL.download]]
-    sha256 = "a45732e8a43cd82fd6e1aa0a4ff99d02e0432bc8232c0710ae17876544b7f866"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.i686-w64-mingw32-cxx11.tar.gz"
-[[CGAL]]
-arch = "armv7l"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "4f343d0880c48272567cb47af62ea9ef628ad227"
-libc = "musl"
+git-tree-sha1 = "3e3ff7ceac79e7d6da8b8eb1cafd63c5fa58fab0"
+libc = "glibc"
 os = "linux"
 
     [[CGAL.download]]
-    sha256 = "cee7fe15eb54bb0625a8b613f1077ae32bd74270d205ce376112e01f9bac0640"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "52eec9165a2ef48fb67af13e90ff78e198f87a32afc4a25ad5d38b5c63aab8a3"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[CGAL]]
-arch = "armv7l"
+arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2330a74b757d0f737a4d4c900091e9d4110ecf7e"
-libc = "glibc"
-os = "linux"
+git-tree-sha1 = "eac4a448f8c936f06426d27eb3f74923bb508e73"
+os = "macos"
 
     [[CGAL.download]]
-    sha256 = "41907167773169ba451f1e2ef2ec515b30d9962c1b15cf4f9d53b57a5d3a7d01"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
-[[CGAL]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "764cf61290bb4903a3b7de5285b70754e354a8c7"
-libc = "glibc"
-os = "linux"
-
-    [[CGAL.download]]
-    sha256 = "55b82e4fc9198bdc32b23961a721188f03b016431c38802a599c45109c74380a"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.aarch64-linux-gnu-cxx03.tar.gz"
-[[CGAL]]
-arch = "armv7l"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "800490a5980cef1fa4fc692b2985b10af599dff9"
-libc = "glibc"
-os = "linux"
-
-    [[CGAL.download]]
-    sha256 = "22eea0e854491b22da02dd02baa6d339de94124d0bbd3b5e1a3e2274cc6ed146"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "4a84d939305b5766cfd3f65b0f91c89757d648cc0f144e17723495529d439554"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.x86_64-apple-darwin14-cxx03.tar.gz"
 [[CGAL]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cf4f8ec22b0f8d5bad55cd6aabc1d6a46048505e"
-os = "freebsd"
+git-tree-sha1 = "65151d1a2f2669fbd1928afadf4082b1b68027f9"
+os = "macos"
 
     [[CGAL.download]]
-    sha256 = "76a49cbd92acd2a6d18b66046c14574f58d23dc7a0c01ae124a73478c1ae59f3"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+    sha256 = "8eb3481fc586cbd2337602b583f4bbc40f58c2aa8d9a44160baf0584b014023f"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.x86_64-apple-darwin14-cxx11.tar.gz"
 [[CGAL]]
-arch = "i686"
+arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "afa73df51629bb063d7c8e690cacc6bbdabb710e"
+git-tree-sha1 = "7bd022d59b9be41224f554c11f4cdc296a1a7826"
+libc = "glibc"
+os = "linux"
+
+    [[CGAL.download]]
+    sha256 = "5e56c514656c753dd66df92c52a615eb4f022eede7196ab63be54ad39cd3c059"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[CGAL]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3687d082236e1bf939b8524919fc84c97ff62761"
+libc = "glibc"
+os = "linux"
+
+    [[CGAL.download]]
+    sha256 = "0c53b1ea55b25741fc016eece5b83c760dfaf1e0e6b37feddeef4b72b75ec81b"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[CGAL]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ee76bb729bb7e018d3cf1fa02e086f36b358b452"
 libc = "musl"
 os = "linux"
 
     [[CGAL.download]]
-    sha256 = "70110b83f81f78f5cbe0664f95b83bf6f3396047bc64da81739c4de3480ca83f"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+0/CGAL.v5.0.2.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "7890e141f309bec142d722fd695f39b60f97ce7bd7e3e6fe93cef2a2cbe1c013"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.x86_64-linux-musl-cxx03.tar.gz"
+[[CGAL]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b604545d05337e94b9aa0fb1fbc9656ced523224"
+libc = "musl"
+os = "linux"
+
+    [[CGAL.download]]
+    sha256 = "8ebc5a238bbab6207d44561b366b92bc82d984028e77277985de434b26586776"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.x86_64-linux-musl-cxx11.tar.gz"
+[[CGAL]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8014e261b0a1df0eae91f9fbae6c742c35f06dbe"
+os = "freebsd"
+
+    [[CGAL.download]]
+    sha256 = "270ce44c3eec31e2a6e9df19c2de5dca7c4ba1859566fc7352acbb0db6ed0e00"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+[[CGAL]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "54792f475a96b00d8f14af5cc8f48c67c4c6fdaf"
+os = "freebsd"
+
+    [[CGAL.download]]
+    sha256 = "1515c78f2940d36409a811f9d91a450c428c59bcc478fa38e693cf1b0fe58f5a"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+[[CGAL]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "289d658897c8bda367e6714868e44b27cb165b5b"
+os = "windows"
+
+    [[CGAL.download]]
+    sha256 = "53c97ffde6829f0d565afd818f5e24355175cb02fe1d9a671f8c8a7e5a941ee5"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[CGAL]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "31f913c7ae082e9aa082cc97de5f67a4f6ef6362"
+os = "windows"
+
+    [[CGAL.download]]
+    sha256 = "d632b5baa2de14365906ea7ae563a4513b54fccf6f3f2ee1a942facb90b3bf66"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.0.2+1/CGAL.v5.0.2.x86_64-w64-mingw32-cxx11.tar.gz"
