@@ -1,6 +1,6 @@
 name = "CGAL_jll"
 uuid = "8fcd9439-76b0-55f4-a525-bad0597c05d8"
-version = "5.2.1+0"
+version = "5.3.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -15,3 +15,6 @@ boost_jll = "28df3c45-c428-5900-9ff8-a3135698ca75"
 [compat]
 JLLWrappers = "1.2.0"
 julia = "1.0"
+GMP_jll = "6.1.2"
+MPFR_jll = "4.0.2"
+boost_jll = "=1.71.0"
