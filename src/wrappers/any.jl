@@ -2,9 +2,8 @@
 using boost_jll
 using GMP_jll
 using MPFR_jll
-using Zlib_jll
 JLLWrappers.@generate_wrapper_header("CGAL")
 function __init__()
-    JLLWrappers.@generate_init_header(boost_jll, GMP_jll, MPFR_jll, Zlib_jll)
+    JLLWrappers.@generate_init_header(boost_jll, GMP_jll, MPFR_jll)
     JLLWrappers.@generate_init_footer()
 end  # __init__()
