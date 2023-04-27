@@ -1,6 +1,6 @@
 [CGAL]
-git-tree-sha1 = "5c8d633653b8ad8279effc9b17aba4eab96b135f"
+git-tree-sha1 = "50bb19e0c9d16948b79c1455d7c782649410a3b0"
 
     [[CGAL.download]]
-    sha256 = "968dc25d3d819698622563a6ce25261f448b86fa882bfd944597d99f2ec4beaa"
-    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.5.0+0/CGAL.v5.5.0.any.tar.gz"
+    sha256 = "cdc01bf97e5ba8dc6413ae7d4654241b190cd6897ae2935ed5ab375d93928226"
+    url = "https://github.com/JuliaBinaryWrappers/CGAL_jll.jl/releases/download/CGAL-v5.5.2+0/CGAL.v5.5.2.any.tar.gz"
